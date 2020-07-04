@@ -1,5 +1,5 @@
 {
-  "name": "bitcore-lib-cash",
+  "name": "bitcore-lib-cash-sagech",
   "version": "8.20.5",
   "description": "A pure and powerful JavaScript Bitcoin Cash library.",
   "author": "BitPay <dev@bitpay.com>",
@@ -29,7 +29,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore/tree/master/packages/bitcore-lib-cash"
+    "url": "https://github.com/sagech/bitcore/tree/master/packages/bitcore-lib-cash"
   },
   "browser": {
     "request": "browser-request"
